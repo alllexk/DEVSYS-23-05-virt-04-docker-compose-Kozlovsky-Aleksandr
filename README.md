@@ -1,6 +1,6 @@
 # 1
 
-![Packer image](https://github.com/alllexk/DEVSYS-23-05-virt-04-docker-compose-Kozlovsky-Aleksandr/blob/49b64106cf649f66f7fce589d53f06c475dcf8e7/images/1.png)
+![Packer image](https://github.com/alllexk/DEVSYS-23-05-virt-04-docker-compose-Kozlovsky-Aleksandr/blob/8df1209f6ce85590e4b39a61199b8d31b4343efe/images/1.png)
 
 
 # 2
